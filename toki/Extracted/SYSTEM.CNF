@@ -1,0 +1,4 @@
+BOOT = cdrom:PSX.EXE;1
+TCB = 8
+EVENT = 32
+STACK = 801FFF00
